@@ -3,7 +3,7 @@
 
 function writeCards(peeps, event) {
   for (let i =0; i < peeps.length; i++)
-  {console.log(`Thank you, ${peeps[i]}, for the wonderful surprise gift!`);}
+  {console.log(`Thank you, ${peeps[i]}, for the wonderful ${event} gift!`);}
   
 }
 
