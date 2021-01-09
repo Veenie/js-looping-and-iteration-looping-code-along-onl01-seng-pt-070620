@@ -1,3 +1,7 @@
 // Code your solutions in this file
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
+const peeps = ["Ada", "Brendan", "Ali"]
 
+function writeCards(peeps) {
+  for (let i =0; i < peeps.length; i++)
+  {console.log()
+}
