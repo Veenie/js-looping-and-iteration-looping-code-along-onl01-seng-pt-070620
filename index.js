@@ -1,5 +1,5 @@
 // Code your solutions in this file
-const peeps = ["Lisa", "Kaitlin", "Ali"]
+const peeps = ["Lisa", "Kaitlin", "Jan"]
 
 function writeCards(peeps) {
   for (let i =0; i < peeps.length; i++)
